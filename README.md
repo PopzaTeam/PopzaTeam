@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PopzaTeam
+- 👋 Hi, I’m @PopzaTeam. There is only one member in this team by now. 
 - 🌱 I’m currently interesting in .NET
 - Want to have a coffee with me, give me BTC # 1A4vx5EJAYL8XGAWpg2rAwzkkHqQUrNasz
 
